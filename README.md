@@ -6,3 +6,6 @@ Magi Quest is a 2D action-platformer with levels designed to be thoroughly explo
 HOW TO PLAY:
 Download Magi Quest Build, and then run MagiQuest.exe. The game is played with WASD for movement, Space Bar for jump/double jump, and J to fire. Have fun!
 
+![2023-08-23](https://github.com/PsyBair/Magi-Quest/assets/68452033/ab90c5c6-e62f-46e5-ae07-46b3d3aa5bdb)
+![2023-08-23 (1)](https://github.com/PsyBair/Magi-Quest/assets/68452033/9707fbae-688f-482a-b8a1-f842171f35cb)
+![2023-08-23 (2)](https://github.com/PsyBair/Magi-Quest/assets/68452033/50ed720a-fcc8-4ce1-8cb4-c8362a2217c4)
